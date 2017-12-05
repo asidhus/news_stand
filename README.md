@@ -6,10 +6,9 @@
 
 ## Team
 
-  - Katherine Manning
-  - Patrick Miner
-  - Ayush Kumar
-  - Danny Welstad
+  - Amandeep Sidhu
+  - Brian Choe
+  - Jason Borer
 
 ## Table of Contents
 
